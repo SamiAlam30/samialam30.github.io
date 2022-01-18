@@ -16,7 +16,7 @@ p{
    
 }
 .cricket-container{
-    background-color: azure;
+    background-color: aquamarine;
 }
 th,td,tr{
     border: solid black;
@@ -33,4 +33,12 @@ table{
 .textcolour {
     text-decoration-color: azure;
 }
-
+.project-container{
+    background-color: aquamarine;
+}
+.HOBBIES-container{
+    background-color: snow;
+}
+.anothertable{
+      background-color: aquamarine;
+}
